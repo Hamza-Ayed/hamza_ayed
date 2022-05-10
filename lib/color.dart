@@ -5,6 +5,11 @@ TextStyle tilteStyle =
 
 TextStyle tilte1Style = const TextStyle(
     fontSize: 20, fontFamily: 'NizarBBCKurdish', fontStyle: FontStyle.normal);
+TextStyle tilte1Styleblack = TextStyle(
+    color: nb1,
+    fontSize: 20,
+    fontFamily: 'NizarBBCKurdish',
+    fontStyle: FontStyle.normal);
 
 Color primaryColor = const Color(0xff292F33);
 Color blue = const Color(0xff55ACEE);
